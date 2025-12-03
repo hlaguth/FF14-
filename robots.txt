@@ -1,0 +1,18 @@
+# robots.txt for FF14 Mini Cactpot Solver
+# 允許所有搜尋引擎爬取
+
+User-agent: *
+Allow: /
+
+# Sitemap 位置
+Sitemap: https://hlaguth.github.io/FF14-/sitemap.xml
+
+# 特別針對主要搜尋引擎的設定
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
